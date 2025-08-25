@@ -1,0 +1,17 @@
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\controller\ApplicationController.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\controller\AuthController.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\controller\JobController.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\dto\AuthDtos.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\model\ApplicationEntity.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\model\Job.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\model\Notification.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\model\Role.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\model\User.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\repo\ApplicationRepository.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\repo\JobRepository.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\repo\UserRepository.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\security\JwtFilter.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\security\JwtUtil.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\security\SecurityConfig.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\service\DbUserDetailsService.java
+C:\Users\kalav\Downloads\ZidioConnect_fixed\backend\src\main\java\com\zidio\connect\ZidioConnectApplication.java
